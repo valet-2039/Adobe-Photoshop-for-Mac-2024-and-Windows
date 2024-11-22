@@ -1,0 +1,1 @@
+# Adobe-Photoshop-for-Mac-2024-and-Windows
